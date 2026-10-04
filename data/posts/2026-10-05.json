@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-05",
+  "topicId": "half-gravity",
+  "title": "もしも重力が半分だったら、どこまで跳べるか",
+  "lede": "跳べる高さは重力に反比例します。半分になれば倍、ではどこまで軽くなれば空を飛べるのか。",
+  "params": {
+    "jump": 50,
+    "gravity": 50,
+    "weight": 60
+  },
+  "headline": {
+    "value": 100,
+    "unit": "cm",
+    "label": "跳べる高さ"
+  },
+  "generatedAt": "2026-10-04T23:54:40.783Z"
+}
