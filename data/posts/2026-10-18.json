@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-18",
+  "topicId": "tooth-brushing",
+  "title": "もしも歯を磨いた時間を全部まとめたら",
+  "lede": "1回3分。日課すぎて意識しませんが、まとめると何日ぶんになるのか。",
+  "params": {
+    "perDay": 2,
+    "minutes": 3,
+    "years": 80
+  },
+  "headline": {
+    "value": 121.75,
+    "unit": "日",
+    "label": "80年ぶんの合計"
+  },
+  "generatedAt": "2026-10-17T23:00:02.640Z"
+}
